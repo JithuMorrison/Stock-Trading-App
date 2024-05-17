@@ -1,0 +1,44 @@
+McDonald's
+MCD;McDonald's Corp;McDonald's Corporation is an American multinational fast food chain, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.;Founder: Ray Kroc;Headquarters: Chicago, Illinois, United States; Founded: 15 April 1955, Des Plaines, Illinois, United States;President: Chris Kempczinski Number of employees: c. 150,000;Number of locations: 40,031 restaurants
+
+Nokia
+NOK;Nokia Corp ADR;Nokia Corporation is a Finnish multinational telecommunications, information technology, and consumer electronics corporation, established in 1865. Nokia's main headquarters are in Espoo, Finland, in the greater Helsinki metropolitan area, but the company's actual roots are in the Tampere region of Pirkanmaa.;CEO: Pekka Lundmark (1 Aug 2020–);Founded: 12 May 1865, Tampere, Finland;Founders: Leo Mechelin, Fredrik Idestam, Eduard Polón;Headquarters: Espoo, Finland;Number of employees: 86,896 (2022);Revenue: 2,491 crores EUR (2022);Subsidiaries: Nokia Networks, Nokia Technologies
+
+New York Times
+NYT;New York Times;The New York Times Company is an American mass-media company that publishes The New York Times, its associated publications, and other media properties. Its headquarters are in Manhattan, New York City.;CEO: Meredith Kopit Levien (8 Sept 2020–);Founders: Henry Jarvis Raymond, George Jones;Subsidiaries: Serial Productions, LLC, T Brand Studio;Founded: 18 September 1851, New York, New York, United States;Headquarters: New York, New York, United States;Number of employees: c. 5,800 (December 2022)
+
+Oppenheimer Holdings
+OPY;Oppenheimer H;Oppenheimer Holdings Inc. is an American multinational independent investment bank and financial services company offering investment banking, financial advisory services, capital markets services, asset management, wealth management, and related products and services worldwide.;Subsidiaries: Oppenheimer Trust Co.;CEO: Albert G. Lowenthal (1985–);Founder: Harris C. Fahnestock;Founded: 1881;Assets under management: 3,680 crores USD (2022);Headquarters: New York, New York, United States;President: Robert S. Lowenthal
+
+Pfizer
+PFE;Pfizer Inc;Pfizer Inc. is an American multinational pharmaceutical and biotechnology corporation headquartered at The Spiral in Manhattan, New York City. The company was established in 1849 in New York by two German entrepreneurs, Charles Pfizer and his cousin Charles F. Erhart.;Headquarters: New York, New York, United States;Founders: Charles Pfizer, Charles F. Erhart;CEO: Albert Bourla (1 Jan 2019–);Subsidiaries: Hospira, Global Blood Therapeutics INC;CFO: Dave Denton;CTO: Lidia Fonseca;Customer service: 022 6693 2000
+
+Ferrari
+RACE;Ferrari N.V.;Industry- Automotive;Founded- 13 September 1939; 84 years ago in Modena, Italy;Founder- Enzo Ferrari;Headquarters- Maranello, Emilia-Romagna, Italy Modena, Emilia-Romagna, Italy (seat);Executive Chairman-John Elkann;Vice Chairman-Piero Ferrari;CEO-Benedetto Vigna;Products:Sports cars, luxury cars;Production output	Increase 13,221 units shipped (2022);Revenue	Increase €5.095 billion (2022);Operating income	Increase €1.227 billion (2022);Net income	Increase € 939 million (2022);Total assets	Increase € 6.86 billion (2021);Total equity	Increase € 2.21 billion (2021);Owners:Exor N.V. (24.21);Piero Ferrari (10.30);Public (65.49);Number of employees	Increase 4,571 (2021);Subsidiaries:Scuderia Ferrari S.p.A.
+
+Visa
+V;Visa Inc;Visa Inc. is an American multinational payment card services corporation headquartered in San Francisco, California. It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards and prepaid cards. Visa is one of the world's most valuable companies.;Customer service: 00 1 866-765-9644;CEO: Ryan McInerney (1 Feb 2023–);Founder: Dee Hock;Headquarters: San Francisco, California, United States;Founded: 18 September 1958, Fresno, California, United States;Number of employees: c. 26,500 (2022)
+
+Apple
+AAPL;Apple Inc;Apple Inc is an American multinational technology company headquartered in Cupertino, California. As of March 2023,Apple is the world's largest company by market capitalization, and with US394.3 billion the largest technology company by 2022 revenue;CEO: Tim Cook (24 Aug 2011–);Founded: 1 April 1976, Los Altos, California, United States;Founders: Steve Jobs, Ronald Wayne, Steve Wozniak;Headquarters: Cupertino, California, United States;Number of employees: 1,61,000 (2023);Subsidiaries: Apple Store, Beddit, Beats Electronics, Apple Studios.
+
+Walmart
+WMT;Walmart Inc;Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas.;Owner: Walton family;Founders: Sam Walton, Bud Walton;Headquarters: Bentonville, Arkansas, United States;President: Doug McMillon;Founded: 2 July 1962, Rogers, Arkansas, United States;Divisions: Walmart U.S. Walmart International; Sam's Club; Global eCommerce;Number of employees: 2,300,000 (Jan. 2022)
+
+Amazon
+AMZN;Amazon.com Inc;Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It is considered to be one of the Big Five American technology companies, alongside Alphabet, Apple, Meta and Microsoft.;CEO: Andy Jassy (5 Jul 2021–);Founder: Jeff Bezos;Founded: 5 July 1994, Bellevue, Washington, United States;Mascot: Peccy;President: Andy Jassy;Number of employees: 1,684,853 (November 2023); US: 1,112,555 (November 2023);Subsidiaries: Audible, Amazon India, Amazon Web Services
+
+Microsoft
+MSFT;Microsoft Corp;Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser.;Founders: Bill Gates, Paul Allen;Headquarters: Redmond, Washington, United States;Founded: 4 April 1975, Albuquerque, New Mexico, United States;CFO: Amy Hood;Subsidiaries: Activision Blizzard, Skype Communications S.a r.l., MORE;CEO: Satya Nadella (4 Feb 2014–)
+
+IBM
+IBM;IBM Common Stock;The International Business Machines Corporation, nicknamed Big Blue, is an American multinational technology corporation headquartered in Armonk, New York and is present in over 175 countries.;CEO: Arvind Krishna (6 Apr 2020–);Founded: 16 June 1911, Endicott, New York, United States;Founders: Herman Hollerith, Thomas J. Watson, Charles Ranlett Flint, George Winthrop Fairchild;Headquarters: Armonk, New York, United States;Number of employees: 2,88,300 (2022);Revenue: 6,053 crores USD (2022);Subsidiaries: Red Hat Software, IBM Consulting
+
+Google
+GOOG;Alphabet Inc.;Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries.;Stock price: GOOGL (NASDAQ) 132.52 -0.77 (-0.58);12 Dec, 4:00 pm GMT-5 - Disclaimer;CEO: Sundar Pichai (3 Dec 2019–);Founders: Larry Page, Sergey Brin;Subsidiaries: Google, Waymo, X Development, Verily, BufferBox, MORE;CFO: Ruth Porat;Headquarters: Mountain View, California, United States;Founded: 2 October 2015, California, United States
+
+Tesla
+TSLA;Tesla Inc.;Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas, which designs and manufactures electric vehicles, stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.;Stock price: TSLA (NASDAQ) 237.01 -2.73 (-1.14);12 Dec, 4:00 pm GMT-5 - Disclaimer;Founders: Elon Musk, Martin Eberhard, JB Straubel, Marc Tarpenning, Ian Wright;Headquarters: Austin, Texas, United States;Founded: 1 July 2003, San Carlos, California, United States
+
+Facebook
+Meta Platforms;Meta Platforms;Meta Platforms Inc., doing business as Meta, and formerly named Facebook, Inc., and TheFacebook, Inc., is an American multinational technology conglomerate based in Menlo Park, California. The company owns and operates Facebook, Instagram, Threads, and WhatsApp, among other products and services.;Founders: Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, Chris Hughes;Headquarters: Menlo Park, California, United States;CTO: Andrew Bosworth;CEO: Mark Zuckerberg (Jul 2004–);Founded: February 2004, Cambridge, Massachusetts, United States;sSubsidiaries: WhatsApp, Meta Platforms Ireland, Reality Labs
